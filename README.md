@@ -5,7 +5,7 @@ Description
 -------------
 
 Rapport technique de Six mois de stage de développement au sein de Logilab,
-entreprise spécialisé dans le python, l'informatique scientifique et le web sémantique.
+entreprise spécialisée dans le python, l'informatique scientifique et le web sémantique.
 
 Objectif
 --------
